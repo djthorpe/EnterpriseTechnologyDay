@@ -16,7 +16,7 @@ Here are a couple of publically-acessible videos in Google Cloud Buckets:
   * gs://cloud-ml-sandbox/video/chicago.mp4
   * gs://demomaker/google_gmail.mp4
 
-This is the output I get from the samples in this repository:
+This is the output I get from the live streaming example:
 
 ```
 bash$ go run livestreams.go 
@@ -58,6 +58,7 @@ bash$ go run livestreams.go
 +-------------+------------------------------------------------+--------------------+
 ```
 
+This is the output I get from the video annotation example:
 
 ```
 bash$ go run vi-analyse.go gs://demomaker/google_gmail.mp4
