@@ -1,6 +1,14 @@
 
 # Enterprise Technology Day
 
+Objectives
+
+  * Create a project and obtain credentials for running API operations 
+  * Examine reference material for the Video Intelligence and YouTube Data API's
+  * Download SDK's and client libraries
+  * Develop a system to load currently running live streams and determine the number of people watching each live stream
+  * Develop a system to analyse a video clip and determine knowledge graph classifications of segments within the clip
+
 Code and samples for Enterprise Technology Day. Links:
 
    * [YouTube Data API](https://developers.google.com/youtube/v3/)
