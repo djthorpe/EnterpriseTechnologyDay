@@ -4,6 +4,7 @@
 Code and samples for Enterprise Technology Day. Links:
 
    * [YouTube Data API](https://developers.google.com/youtube/v3/)
+   * [Partner API](https://developers.google.com/youtube/partner/)
    * [Cloud Intelligence API](https://cloud.google.com/video-intelligence/)
    * [Cloud Console](https://console.developers.google.com/)
    * [YouTube Data API Client Libraries](https://developers.google.com/youtube/v3/libraries)
